@@ -1,0 +1,10 @@
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.b{
+    background-color: red;
+}

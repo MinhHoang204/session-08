@@ -1,0 +1,13 @@
+.square{
+    height: 50px;
+    width: 500px;
+    background-color: azure;
+    padding: 10px;
+}
+.colo{
+    height: 50px;
+    width: 500px;
+    background-color: aliceblue;
+    color: red;
+    padding: 20px;
+}
